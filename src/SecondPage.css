@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.intro {
+  margin: 20px;
+  font-size: 24px;
+  display: inline-block;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 75px;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.about-me {
+  color: white;
+}
+
+.txt {
+  margin: 20px;
+  font-size: 18px;
+}
+.que {
+  margin-left: 30px;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.ans {
+  margin-left: 30px;
+  font-size: 20px;
+  color: grey;
+}
